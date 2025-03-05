@@ -1,0 +1,13 @@
+com\atguigu\boot\controller\StatisticsController.class
+com\atguigu\boot\controller\AuthController.class
+com\atguigu\boot\service\StatisticsService.class
+com\atguigu\boot\service\UserService.class
+com\atguigu\boot\controller\TestController.class
+com\atguigu\boot\entity\Statistics.class
+com\atguigu\boot\mapper\StatisticsMapper.class
+com\atguigu\boot\controller\HelloController.class
+com\atguigu\boot\config\SecurityConfig.class
+com\atguigu\boot\controller\PublicController.class
+com\atguigu\boot\entity\User.class
+com\atguigu\boot\mapper\UserMapper.class
+com\atguigu\boot\MainApplication.class
